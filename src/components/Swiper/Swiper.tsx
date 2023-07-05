@@ -15,7 +15,8 @@ for (let i = 1; i < 9; i++) {
   images.push(getImageUrl(`Ka Slider (${i})`));
 }
 
-// import required modules
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import { EffectCards } from "swiper";
 
 export default function Cards() {
