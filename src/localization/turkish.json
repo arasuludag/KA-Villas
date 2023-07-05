@@ -1,0 +1,45 @@
+{
+  "translation": {
+    "Hero": {
+      "Title": "Hayalini kurduğunuz tatil deneyimi için villamızı keşfedin.",
+      "ButtonExp1": "Yerinizi ayırtmak için bizimle iletişime geçin",
+      "ButtonExp2": "Bizi takip edin"
+    },
+    "Feature1": {
+      "Title": "Neler sunuyoruz?",
+      "WiFi": {
+        "Title": "WiFi",
+        "Info": "Tatiliniz boyunca bağlantıda kalmanızı sağlamak adına villamızda ücretsiz Wi-Fi erişimi bulunmaktadır. İster işle ilgilenin, ister sevdiklerinizle anılarınızı paylaşın, internet bağlantınızı dilediğiniz gibi kullanabilirsiniz."
+      },
+      "Pool": {
+        "Title": "Açık Havuz",
+        "Info": "Serinlemek, güneşlenmek veya sadece suyun keyfini çıkarmak için açık havuzumuz sizleri bekliyor. Özel villamızın bahçesinde yer alan bu muhteşem havuz, özel anlarınızı yaşamanız için tasarlanmıştır."
+      },
+      "HotTub": {
+        "Title": "Jakuzi",
+        "Info": "Her bir oda, özel jakuzisiyle rahatlamanız için dizayn edilmiştir. Yorgunluğunuzu ve stresinizi suyun kusursuz dokunuşuyla unutun. Kendinizi şımartacağınız anlar için her odada özel jakuzi sizi bekliyor."
+      },
+      "Steam": {
+        "Title": "Sauna",
+        "Info": "Kendinizi arındırmak ve gevşemek için özel bir sauna deneyimi yaşayabilirsiniz. Kiralık villamızda size özel tasarlanmış sauna, bedeninizi ve ruhunuzu yenileyecek, tam bir rahatlama sunacaktır."
+      },
+      "Parking": {
+        "Title": "Ücretsiz Otopark",
+        "Info": "Villamızda ücretsiz otopark imkanı sunuyoruz. Kendi aracınızla rahatça seyahat edebilir, park sorununu düşünmeden tatilin keyfini çıkarabilirsiniz."
+      },
+      "BBQ": {
+        "Title": "Barbekü Alanı",
+        "Info": "Villamızda bulunan özel barbekü alanı, size lezzetli yemekler hazırlama imkanı sunuyor. Aile ve arkadaşlarınızla keyifli bir mangal partisi düzenleyebilir, özel anlarınızı barbekü keyfiyle taçlandırabilirsiniz."
+      }
+    },
+    "Feature2": {
+      "Airport": "Havalimanı",
+      "Beach": "Plaj",
+      "Shopping": "Market",
+      "Restaurant": "Restaurant",
+      "MedicalCenter": "Sağlık Merkezi",
+      "CityCenter": "Şehir Merkezi"
+    },
+    "DisplayOnAirBNB": "AirBNB'de Göster"
+  }
+}

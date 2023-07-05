@@ -1,0 +1,45 @@
+{
+  "translation": {
+    "Hero": {
+      "Title": "Discover our villa for the holiday experience of your dreams.",
+      "ButtonExp1": "Contact us to reserve your spot",
+      "ButtonExp2": "Follow us"
+    },
+    "Feature1": {
+      "Title": "What do we offer?",
+      "WiFi": {
+        "Title": "WiFi",
+        "Info": "Our villa offers free Wi-Fi access throughout your stay, ensuring you stay connected. Whether you need to attend to work matters or share memories with your loved ones, you can use the internet as you please."
+      },
+      "Pool": {
+        "Title": "Swimming Pool",
+        "Info": "Our villa features a stunning outdoor pool where you can cool off, sunbathe, or simply enjoy the water. Designed for creating special moments, the pool in our private villa is perfect for your enjoyment."
+      },
+      "HotTub": {
+        "Title": "Hot Tub",
+        "Info": "Each room is designed with a private hot tub for your relaxation. Forget your tiredness and stress as you indulge in the soothing touch of water. Each room awaits you with a private hot tub for moments of pampering."
+      },
+      "Steam": {
+        "Title": "Sauna",
+        "Info": "Experience a private sauna session to purify and relax yourself. In our rental villa, a specially designed sauna awaits you, providing complete relaxation and rejuvenation for your body and soul."
+      },
+      "Parking": {
+        "Title": "Free Parking",
+        "Info": "We offer free parking at our villa. You can comfortably travel with your own vehicle and enjoy your vacation without worrying about parking issues."
+      },
+      "BBQ": {
+        "Title": "BBQ Area",
+        "Info": "Our villa features a private BBQ area that allows you to prepare delicious meals. You can organize a delightful barbecue party with your family and friends, adding an extra touch to your special moments."
+      }
+    },
+    "Feature2": {
+      "Airport": "Airport",
+      "Beach": "Beach",
+      "Shopping": "Market",
+      "Restaurant": "Restaurant",
+      "MedicalCenter": "Medical Center",
+      "CityCenter": "City Center"
+    },
+    "DisplayOnAirBNB": "Show on AirBNB"
+  }
+}

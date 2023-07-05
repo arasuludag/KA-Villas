@@ -1,0 +1,20 @@
+[
+  {
+    "href": "https://www.airbnb.com.tr/rooms/915602652104141129",
+    "coordinates": {
+      "lat": 36.627993,
+      "lng": 29.152474
+    },
+    "title": "Fethiye Villa 1",
+    "image": "Fethiye Villa 1.jpg"
+  },
+  {
+    "href": "https://www.airbnb.com.tr/rooms/915649313696409782",
+    "coordinates": {
+      "lat": 36.627935,
+      "lng": 29.152284
+    },
+    "title": "Fethiye Villa 2",
+    "image": "Fethiye Villa 2.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+.cardSwiper {
+  max-width: 1075px;
+  width: 100%;
+}
+
+.cardSlide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+@media screen and (max-width: 1100px) {
+  .cardSwiper {
+    max-width: 90%;
+  }
+}
